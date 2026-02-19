@@ -1,0 +1,2 @@
+# mcp-splunk
+mcp-splunk
